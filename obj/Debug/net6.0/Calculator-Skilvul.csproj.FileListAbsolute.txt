@@ -1,0 +1,15 @@
+C:\Users\Farrel\Desktop\Calculator-Skilvul\bin\Debug\net6.0\Calculator-Skilvul.exe
+C:\Users\Farrel\Desktop\Calculator-Skilvul\bin\Debug\net6.0\Calculator-Skilvul.deps.json
+C:\Users\Farrel\Desktop\Calculator-Skilvul\bin\Debug\net6.0\Calculator-Skilvul.runtimeconfig.json
+C:\Users\Farrel\Desktop\Calculator-Skilvul\bin\Debug\net6.0\Calculator-Skilvul.dll
+C:\Users\Farrel\Desktop\Calculator-Skilvul\bin\Debug\net6.0\Calculator-Skilvul.pdb
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.csproj.AssemblyReference.cache
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.AssemblyInfoInputs.cache
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.AssemblyInfo.cs
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.csproj.CoreCompileInputs.cache
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.dll
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\refint\Calculator-Skilvul.dll
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.pdb
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\Calculator-Skilvul.genruntimeconfig.cache
+C:\Users\Farrel\Desktop\Calculator-Skilvul\obj\Debug\net6.0\ref\Calculator-Skilvul.dll
